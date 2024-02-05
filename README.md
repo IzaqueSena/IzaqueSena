@@ -1,16 +1,38 @@
-### Hi there 👋
+# Hi there! I am Izaque Sena 👋
 
-<!--
-**IzaqueSena/IzaqueSena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center"> 
+  <samp>
+    <br>
+    「 I am a software engineer from <b>Brazil</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+ <a href="https://www.linkedin.com/in/izaque-sena-4a121120b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
+ <a href="mailto:izaque.sena@usp.br">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="alsiam"/>
+ </a>
+</p>
+
+<br />
+
+<!-- About Section -->
+ # About
+ 
+<p>
+  
+- ❤️ Lover of software engineering, problem solving and complex systems.
+- 📚 Computer engineering student at University of São Paulo (POLI-USP).
+- 🔭 Looking forward to enhancing my software engineering skills.
+- 💬 Here, you can find some projects and materials that I developed through my journey
+</p>
+
+<br/>
+
+
+
