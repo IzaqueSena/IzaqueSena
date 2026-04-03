@@ -27,7 +27,7 @@
 <p>
   
 - ❤️ Lover of software engineering, problem solving and complex systems.
-- 📚 Graduated in Computer engineering at University of São Paulo (POLI-USP).
+- 📚 Bachelor's Degree in Computer Engineering from University of São Paulo (POLI-USP)
 - 🔭 Looking forward to enhancing my software engineering skills.
 - 💬 Here, you can find some projects and materials that I developed through my journey
 </p>
